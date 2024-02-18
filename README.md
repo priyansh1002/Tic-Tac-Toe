@@ -1,1 +1,1 @@
-## This is a prototype of Tic-Tac-Toe Game.
+# This is a prototype of Tic-Tac-Toe Game.
